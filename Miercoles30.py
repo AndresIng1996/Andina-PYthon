@@ -1,1 +1,1 @@
-print("Estoy aprendiendo Gif")
+print("Estoy aprendiendo Gif hoy")
